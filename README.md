@@ -1,2 +1,2 @@
 # Plane
-A tutorial of Egret engine
+The very first project implemented by Egret engine.
